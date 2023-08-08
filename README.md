@@ -20,8 +20,7 @@ pip install --upgrade pip
 
 pip install buildbot-worker
 
-# required for `runtests` build
-
 pip install setuptools-trial
 
 buildbot-worker start my_worker
+
